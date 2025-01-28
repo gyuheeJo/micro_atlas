@@ -1,13 +1,13 @@
 {
     "best_params": {
-        "hidden_size_disc": 229,
-        "hidden_size_gen": 317,
-        "lr": 0.00026368215682014276,
-        "z_dim": 97,
-        "epochs": 3,
-        "fs": "rf",
-        "feature_size": 594,
-        "sim_data_size": 796
+        "hidden_size_disc": 421,
+        "hidden_size_gen": 233,
+        "lr": 0.0008452480400024052,
+        "z_dim": 64,
+        "epochs": 2,
+        "fs": "mi",
+        "feature_size": 100,
+        "sim_data_size": 1687
     },
-    "best_score": 0.7431192660550459
+    "best_score": 0.72782874617737
 }
