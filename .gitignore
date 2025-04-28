@@ -4,3 +4,5 @@ Data/dataset/
 Data/generators/
 profiles/
 runs/
+telethor_experiments/
+auto.ipynb
